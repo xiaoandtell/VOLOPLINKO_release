@@ -1,0 +1,7 @@
+body {
+	background-color: black;
+	/* game fills entire screen */
+	margin: 0;
+	/* remove scrollbars */
+	overflow: hidden;
+}
