@@ -1,0 +1,132 @@
+ 🐙  XJ Share License  🐙 
+
+
+Xiaoyuan Jiang is the author of this Application and this License Agreement [Copyright 2019].
+	Email:
+		x@xiaoandtell.com
+	GitHub: 
+		https://github.com/xiaoandtell
+
+
+
+
+0.	!!! ATTENTION !!!
+	BEFORE OBSERVING THIS APPLICATION'S SOURCE CODE OR ACQUIRING AN OFFLINE COPY OF THE APPLICATION, YOU MUST FIRST CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO COMPLY STRICTLY WITH THIS XJ SHARE LICENSE AS THE "LICENSEE".
+	A.	Therefore, to enter into this Agreement as the Licensee, you must notify the Licensor through the Email specified at the beginning of this Agreement, using your primary email address. Include the following:
+		i. Your legal name.
+		ii. Your main address.
+		iii. One (1) sentence, stating in your own words, your accepting this Agreement by the the terms and conditions herein.
+		iv. Your electronic signature, or an image file of your signature.
+		iv. The date of accepting this Agreement.
+	B.	If choose to do so, include in your acceptance notification email additional information such as:
+		i. Your preferred means of contact.
+		ii. Any information about your intended Distribution, such as purposes, websites, repositories, etc.
+		iii. Anything that you deem worth mentioning or inquiring about.
+	C.	Once you have successfully sent the acceptance notification email, this Agreement is thereby made effective between you and the Licensor.
+	
+	IF YOU DO NOT ACCEPT ANY OF THIS AGREEMENT'S TERMS AND CONDITIONS, AND IF YOU FAIL OR NEGLECT TO ARRANGE A DIFFERENT WORKING LICENSE:
+		i. CEASE AND DESIST FROM OBSERVING AND USING ANY PART OF THE WORK COVERED.
+		ii. DELETE ALL PARTS AND COPIES OF THE WORK COVERED FROM YOUR POSSESSION.
+
+
+
+
+1.	DEFINITIONS
+	A.	"Agreement" means this License Agreement, the XJ Share License.
+	B.	"Application" means the Application titled VOLOPLINKO, and its source code.
+	C.	"Licensor" means Xiaoyuan Jiang, or the current owner of the License.
+	D.	"Intellectual Property Rights" means all copyrights, designs, patents, know hows, trademarks, trade secrets, proprietary rights, and other intellectual property rights, including the right to grant a license in the form hereof.
+	E.	"Work Covered" means the Application, together with all modification therein, including source code, original algorithms and methodologies, object code, scripts, binary and text files and datas, designs, and all Intellectual Property Rights therein, with the exclusion of the parts of the Application originating or significantly derived from sources outside of Xiaoyuan Jiang.
+	F.	"Work Extended" means the work authored by the Licensee, be it modified from, added to, making use of, or otherwise in connection with the Work Covered, in any of its parts.
+	G.	"Confidential Information" means information that:
+		i. Is by its nature confidential;
+		ii. Is designated in writing by the Licensor as confidential;
+		iii. Is comprised in or relating to any Intellectual Property Rights of the Licensor;
+		iv. The Licensee knows or reasonably ought to know is confidential.
+
+
+2.	PURPOSE
+	Xiaoyuan Jiang, having developed and owning all rights to the Work Covered, grants this License to the Licensee to allow PUBLIC SHARING OF APPLICATIONS resulting from changes to the Work Covered FOR THE PURPOSE OF FREE ENTERTAINMENT AND LEARNING.
+	NOW, THEREFORE, in consideration of the foregoing, and of the mutual promises set forth herein, and other good and valuable consideration, the Licensor and Licensee agree as follows:
+
+
+3.	LICENSE GRANT
+	The Licensor grants to the Licensee a non-exclusive, non-commercial, non-corporate, non-transferable license for the Term to use the Work Covered for the specific purpose specified in this Agreement.
+	The Licensee agrees to comply strictly with all policies and conditions provided by the Licensor in using this Application.
+
+
+4.	LICENSEE'S OBLIGATIONS
+	A.	The Licensee must not use the Work Covered for purposes other than as specified in this Agreement.
+	B.	MODIFICATION AND DISTRIBUTION RIGHTS ARE GRANTED FOR PURELY NON-COMMERCIAL AND NON-CORPORATE PURPOSES.
+		THIS FORBIDS THE LICENSEE IN INTENT AND ACTION TO USE ANY PART OF THE WORK COVERED OR WORK EXTENDED TO GENERATE REVENUE, FUNDING, OR ANY OTHER FORMS OF FINANCIAL OR MATERIAL GAIN FOR THE LICENSEE OR ANY OTHER PARTY.
+	C.	Any Distribution of the Application from the Work Extended or any part thereof must be freely and openly accessible to the general public.
+	D.	Any Distribution must readily make available the unobfuscated, readable source code and additional source materials, such as on an online code repository.
+	E.	Any Distribution must preserve and apply this XJ Share License to all Work Covered and the changes made to this work in the Work Extended.
+	F.	Any Distribution must include and apply the MIT License to any remaining additions in the the Work Extended.
+
+
+5.	INTELLECTUAL PROPERTY RIGHTS
+	A.	The Licensor preserves all ownership rights to the Work Covered.
+	B.	The Licensee does not acquire any ownership rights to the Work Covered.
+	C.	THE LICENSEE HEREBY WAIVES ALL OWNERSHIP RIGHTS TO THE WORK EXTENDED.
+	D.	The Licensee transfers onto the Licensor all ownership rights to the parts of the Work Extended containing changes and additions made to the Work Covered.
+	E.	The Licensee releases all ownership rights to any remaining changes and additions in the Work Extended through the MIT License.
+
+
+6.	RELEASE OF LIABILTY
+	A.	The Licensee acknowledges and agrees that neither the Licensor nor the Licensor's heirs, representatives, employees, or agents, will be liable to the Licensee or any third party for any loss, damage, or expense, under any circumstance, arising from use of the Work Covered under this agreement. 
+	B.	The Licensee hereby holds harmless the Licensor, and releases the Licensor to the fullest extent of the law from all liabilities and claims.
+	C.	The Licensor will have no indemnity obligation to the Licensee under any circumstance.
+
+
+7.	DISCLAIMERS
+	A.	The Licensor provides the Work Covered on an "as is" basis.
+	B.	The Licensor gives no, and hereby disclaims any representations or warranties of any kind, express or implied, with respect to the Work Covered.  
+	C.	The Licensor gives no, and hereby disclaims any warranty that the Work Covered or any of its parts will be accurate, available, error-free, functional, merchantable, non-infringing, or fit for any purpose whatsoever.
+
+
+8.	CONFIDENTIALITY
+	Neither the Licensor nor the Licensee may use, disclose, or make available to any third party the other Party's Confidential Information, unless such use is done in accordance with the terms of this Agreement.
+	A. Both the Licensor and Licensee must hold the other Party's Confidential Information secure and in confidence, except to the extent that such Confidential Information:
+		i. Is required to be disclosed according to the requirements of any law, judicial, legislative body, or government agency with applicable jurisdiction; or
+		ii. Was approved for rlease in writing by the other Party, but only to the extent of and subject to such conditions as may be imposed in such written authorization.
+	B. This CONFIDENTIALITY clause will survive termination of this Agreement.
+
+
+9.	WAIVER
+	Any failure or delay by the Licensor to exercise any right, power, or privilege herein or to insist upon observance or performance of any provisions of this Agreement shall not operate or be construed as a waiver thereof.
+
+
+10.	GOVERNING LAW
+	All matters arising out of or relating to this Agreement shall be governed by the laws of the State of California, USA.
+
+
+11.	TERM
+	This Agreement shall last from the date of commencement until terminated either by written or electronic notice by the Licensor.
+
+
+12.	TERMINATION
+	A.	The Licensor may terminate this Agreement if the Licensee is in breach of any term of this License and has failed to correct the breach to the Licensor's reasonable satisfaction within seven (7) days of the Licensor's notice of the breach.
+	Upon termination of this Agreement, the Licensee shall:
+		i. Cease and desist from observing and using the Work Covered and all modifications thereof.
+		ii. Permanently remove the Work Extended, its Applications, source materials, and all parts thereof from any platform where it has been made available.
+		iii. Permanently delete all parts and copies of the Work Covered and Work Extended in the Licensee's possession.
+		iv. Desist from making, and prevent any other party from making, any distribution from the terminated Work Extended.
+	B.	Following termination of this Agreement, the Licensor may choose to exercise the right to deny the ex-Licensee any future licensing rights to this Work Covered and any other works owned by the Licensor, preventing the Licensee from partaking in this Agreement or any other agreements, for any period of time or in perpetuity.
+
+
+13.	NOTICES
+	All notices required under this Agreement shall be in writing and shall be deemed given:
+	i. When delivered personally;
+	ii. Five (5) days after mailing, when sent certified mail, return receipt requested and postage prepaid;
+	iii. One (1) business day after dispatch, when sent via a commercial overnight carrier, fees prepaid; or
+	iv. Three (7) days after sending email or other specified electronic contact.
+
+
+14.	SEVERABILITY
+	The Licensor and Licensee recognize the uncertainty of the law with respect to certain agreements and expressly stipulate that this Agreement will be construed in a manner that renders its provisions valid and enforceable to the maximum extent possible under applicable law. To the extent that any provisions of this Agreement are determined by a court of competent jurisdiction to be invalid or unenforceable, such provisions will be deleted from this Agreement or modified so as to make them enforceable. The validity and enforceability of the remainder of such provisions and of this Agreement will be unaffected.
+
+
+15.	ARRANGEMENT FOR ANOTHER LICENSE 
+	The Licensee or an unlicensed party may contact the Licensor to arrange for a different license for the Work Covered. The party seeking arrangement needs to disclose to the Licensor about purpose for licensing, proposed compensation to the Licensor, and all relevant details. A different license may only be granted through the Licensor's written consent.
+
